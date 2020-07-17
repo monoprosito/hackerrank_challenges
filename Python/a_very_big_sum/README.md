@@ -23,6 +23,7 @@ Print the integer sum of the elements in the array.
 ### Constraints
 
 ![equation](https://latex.codecogs.com/gif.latex?1%20%5Cleq%20n%20%5Cleq%2010)
+
 ![equation](https://latex.codecogs.com/gif.latex?0%20%5Cleq%20ar%5Bi%5D%20%5Cleq%2010%5E%7B10%7D)
 
 ### Sample Input
@@ -44,6 +45,8 @@ The range of the 32-bit integer is ![equation](https://latex.codecogs.com/gif.la
 
 When we add several integer values, the resulting sum might exceed the above range. You might need to use long long int in C/C++ or long data type in Java to store such sums.
 
-*Author:* [Vatsal Chanana](https://www.hackerrank.com/profile/vatsalchanana)
-*Difficulty:* Easy
-*Max Score:* 10
+**Author:** [Vatsal Chanana](https://www.hackerrank.com/profile/vatsalchanana)
+
+**Difficulty:** Easy
+
+**Max Score:** 10
