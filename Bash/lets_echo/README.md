@@ -25,3 +25,9 @@ HELLO
 ### Explanation
 
 -
+
+**Author:** [Prashant](https://www.hackerrank.com/profile/PRASHANTB1984)
+
+**Difficulty:** Easy
+
+**Max Score:** 1
