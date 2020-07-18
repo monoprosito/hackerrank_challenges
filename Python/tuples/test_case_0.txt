@@ -1,0 +1,6 @@
+Input (stdin)
+2
+1 2
+
+Expected Output
+3713081631934410656
