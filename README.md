@@ -1,3 +1,3 @@
 # HackerRank Solved Challenges
 
-Description
+This repository store all my solutions for HackerRank challenges.
