@@ -7,3 +7,4 @@
 - Greatest Integer: [Challenge](https://www.hackerrank.com/challenges/functions-in-c/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/C/greatest_integer)
 - Conditional Statements: [Challenge](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/C/conditional_statements)
 - Binary Tree Height: [Challenge](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/C/binary_tree_height)
+- Binary Tree Level Order Traversal: [Challenge](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/C/binary_tree_level_order_traversal)
