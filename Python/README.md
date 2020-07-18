@@ -7,3 +7,4 @@
 - Division: [Challenge](https://www.hackerrank.com/challenges/python-division/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/python_division)
 - Loops: [Challenge](https://www.hackerrank.com/challenges/python-loops/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/loops)
 - Leap year: [Challenge](https://www.hackerrank.com/challenges/write-a-function/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/is_a_leap_year)
+- Print function: [Challenge](https://www.hackerrank.com/challenges/python-print/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/print_function)
