@@ -6,3 +6,4 @@
 - Arithmetic Operators: [Challenge](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/arithmetic_operators)
 - Division: [Challenge](https://www.hackerrank.com/challenges/python-division/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/python_division)
 - Loops: [Challenge](https://www.hackerrank.com/challenges/python-loops/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/loops)
+- Leap year: [Challenge](https://www.hackerrank.com/challenges/write-a-function/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/is_a_leap_year)

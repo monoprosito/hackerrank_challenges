@@ -1,0 +1,5 @@
+Input (stdin)
+1990
+
+Expected Output
+False

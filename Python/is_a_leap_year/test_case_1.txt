@@ -1,0 +1,5 @@
+Input (stdin)
+2020
+
+Expected Output
+True
