@@ -1,0 +1,6 @@
+Input (stdin)
+1
+15
+
+Expected Output
+0
