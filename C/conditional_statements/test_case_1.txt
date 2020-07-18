@@ -1,0 +1,5 @@
+Input (stdin)
+8
+
+Expected Output
+eight
