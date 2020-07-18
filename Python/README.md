@@ -10,3 +10,4 @@
 - Print function: [Challenge](https://www.hackerrank.com/challenges/python-print/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/print_function)
 - Tuples: [Challenge](https://www.hackerrank.com/challenges/python-tuples/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/tuples)
 - Find the Runner-Up Score!: [Challenge](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/find_the_runner_up_score)
+- Nested Lists: [Challenge](https://www.hackerrank.com/challenges/nested-list/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/nested_lists)
