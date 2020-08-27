@@ -11,3 +11,4 @@
 - Tuples: [Challenge](https://www.hackerrank.com/challenges/python-tuples/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/tuples)
 - Find the Runner-Up Score!: [Challenge](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/find_the_runner_up_score)
 - Nested Lists: [Challenge](https://www.hackerrank.com/challenges/nested-list/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/nested_lists)
+- List Comprehensions: [Challenge](https://www.hackerrank.com/challenges/list-comprehensions/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/list_comprehensions)
