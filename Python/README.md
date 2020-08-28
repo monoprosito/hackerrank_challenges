@@ -13,3 +13,4 @@
 - Nested Lists: [Challenge](https://www.hackerrank.com/challenges/nested-list/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/nested_lists)
 - List Comprehensions: [Challenge](https://www.hackerrank.com/challenges/list-comprehensions/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/list_comprehensions)
 - Finding the Percentage: [Challenge](https://www.hackerrank.com/challenges/finding-the-percentage/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/finding_the_percentage)
+- Lists: [Challenge](https://www.hackerrank.com/challenges/python-lists/problem) - [Solution](https://github.com/monoprosito/hackerrank_challenges/tree/master/Python/lists)
